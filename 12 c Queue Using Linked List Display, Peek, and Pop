@@ -30,10 +30,8 @@ for i in range(len(queue)):
     print(i, end=" ")
     print(queue[i])
 ```
-
 ## OUTPUT
 
 
-
-
 ## RESULT
+The given program is executed successfully.
