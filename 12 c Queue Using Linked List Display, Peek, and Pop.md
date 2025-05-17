@@ -28,6 +28,7 @@ for i in range(len(queue)):
 ```
 ## OUTPUT
 
+![12BS](https://github.com/user-attachments/assets/fd6c0536-18fe-4d86-9e22-84b5391d016c)
 
 ## RESULT
 The given program is executed successfully.
