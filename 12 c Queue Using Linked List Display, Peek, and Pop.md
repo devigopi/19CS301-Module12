@@ -13,19 +13,15 @@ To write a Python program to insert 3 elements into a queue and display each ele
 5. Stop
 
 ## Program
-
-```python
+```
 queue = []
 
-# Enqueue elements into the queue
-queue.append("a")
-queue.append("b")
-queue.append("c")
+queue.append('a')
+queue.append('b')
+queue.append('c')
 
-# Display the initial queue
-print("Initial queue:", queue)
+print('Initial queue: ' + str(queue))
 
-# Display index and element
 for i in range(len(queue)):
     print(i, end=" ")
     print(queue[i])
