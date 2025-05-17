@@ -27,10 +27,12 @@ front = queue[0]
 print("\nElement at the front of the queue is .... ", front)
 rear = queue[3]
 print("\nElement at the rear of the queue is .... ", rear)
-
+```
 ## OUTPUT
 
-![12DS](https://github.com/user-attachments/assets/3f2f9446-b761-4a08-a747-6969991c0d9c)
+![12DS](https://github.com/user-attachments/assets/c954c703-8bc8-4400-adc9-7fb1c4afcdbd)
+
+
 
 ## RESULT
 The given program is successfully executed.
