@@ -30,7 +30,7 @@ print("\nElement at the rear of the queue is .... ", rear)
 
 ## OUTPUT
 
-![12DS](https://github.com/user-attachments/assets/9c3b35ef-643b-4cd1-bf60-d728becc60f8)
+![12DS](https://github.com/user-attachments/assets/3f2f9446-b761-4a08-a747-6969991c0d9c)
 
 ## RESULT
 The given program is successfully executed.
